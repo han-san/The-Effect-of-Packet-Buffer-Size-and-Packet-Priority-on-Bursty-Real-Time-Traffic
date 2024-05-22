@@ -1,0 +1,1 @@
+Checks: '*,-fuchsia-*,-google-*,-android*,-zircon-*,-abseil-*,-altera*,-llvm-*,-llvmlibc-*,-cppcoreguidelines-pro-type-union-access,-misc-non-private-member-variables-in-classes,-hicpp-signed-bitwise,-hicpp-avoid-c-arrays,-cppcoreguidelines-avoid-c-arrays,-modernize-*,-hicpp-deprecated-headers,-misc-no-recursion,-cert-err34-c'

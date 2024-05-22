@@ -1,0 +1,15 @@
+2024-05-13 12:42:54.962233369
+burst_count=600
+burst_period=208300ns
+pi1_sv_packets_per_burst=3
+pi1_ip_packets_per_burst=1
+pi2_sv_packets_per_burst=4
+pi2_ip_packets_per_burst=0
+sv_packet_size=160
+ip_packet_size=1500
+switch_buffer_size=21
+p1_high_prio_min_diff=-430989702508354ns
+p2_high_prio_min_diff=-256089448249458ns
+p1_low_prio_min_diff=-430989702526057ns
+p2_low_prio_min_diff=-256089448250372ns
+max_latency=156000ns

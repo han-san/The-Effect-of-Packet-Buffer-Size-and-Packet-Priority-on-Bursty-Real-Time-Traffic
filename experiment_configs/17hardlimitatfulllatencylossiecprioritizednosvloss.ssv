@@ -1,0 +1,10 @@
+burstcount 600
+burstperiod(ns) 208300
+pi1svpacketsperburst 3
+pi2svpacketsperburst 3
+pi1ippacketsperburst 1
+pi2ippacketsperburst 0
+switchbuffersize(bytes) 21
+maxlatency(ns) 156000
+svpacketsize(bytes) 160
+ippacketsize(bytes) 1500

@@ -1,0 +1,7 @@
+pi1svpacketloss = 0 / 0
+pi2svpacketloss = 0 / 0
+pi1ippacketloss = 24 / 400
+pi2ippacketloss = 0 / 400
+pi1svpacketoutdated = 0 / 0
+pi2svpacketoutdated = 0 / 0
+fulldelaylatency = 0.0002443
